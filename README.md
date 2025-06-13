@@ -11,3 +11,6 @@ This is a macro-enabled, interactive **Sales Dashboard** project created in **Mi
 - ✅ Target Hit % vs. Away from Target %  
 - ✅ Visual elements: Bar, Pie, and Line charts  
 - ✅ Button-based Dashboard navigation (via Macros)
+## 🖼 Dashboard Preview
+
+![Dashboard Preview](Screenshot%202025-06-10%20190744.png)
